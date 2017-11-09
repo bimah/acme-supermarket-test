@@ -1,0 +1,13 @@
+.main-app {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+
+  &__products {
+    flex-grow: 2;
+  }
+
+  &__basket {
+    flex-grow: 1;
+  }
+}

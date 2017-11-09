@@ -1,0 +1,20 @@
+[
+  {
+    "code": "FR1",
+    "name": "Fruit tea",
+    "price": 3.11,
+    "imageThumb": "http://via.placeholder.com/200x250"
+  },
+  {
+    "code": "SR1",
+    "name": "Strawberries",
+    "price": 5.00,
+    "imageThumb": "http://via.placeholder.com/200x250"
+  },
+  {
+    "code": "CF1",
+    "name": "Coffee",
+    "price": 11.23,
+    "imageThumb": "http://via.placeholder.com/200x250"
+  }
+]
